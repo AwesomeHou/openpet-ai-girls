@@ -11,6 +11,7 @@
 - `Doubao`
 - `Gemini`
 - `ChatGPT`
+- `Claude`
 
 每个宠物都采用统一目录格式组织，方便直接接入 OpenPet 项目，也适合作为 Codex pets 自定义宠物资产的基础使用。
 
@@ -27,6 +28,10 @@ OpenPet AI Girls 是一个面向公开发布的小型宠物素材仓库，聚焦
 | Gemini | ChatGPT |
 | --- | --- |
 | ![Gemini preview](./gemini/spritesheet.webp) | ![ChatGPT preview](./chatgpt/spritesheet.webp) |
+
+| Claude |
+| --- |
+| ![Claude preview](./claude/spritesheet.webp) |
 
 ## 项目说明
 
@@ -45,6 +50,7 @@ OpenPet AI Girls 是一个面向公开发布的小型宠物素材仓库，聚焦
 | `doubao` | Doubao | 黑白洛丽塔风、短深色发型 |
 | `gemini` | Gemini | 彩虹发色、明亮活泼风格 |
 | `chatgpt` | ChatGPT | 薄荷绿主色、白绿服饰设计 |
+| `claude` | Claude | 橙粉长发、白色荷叶边裙装、橙色缎带点缀 |
 
 ## 仓库结构
 
@@ -60,6 +66,9 @@ openpet-ai-girls/
 │  ├─ pet.json
 │  └─ spritesheet.webp
 ├─ chatgpt/
+│  ├─ pet.json
+│  └─ spritesheet.webp
+├─ claude/
 │  ├─ pet.json
 │  └─ spritesheet.webp
 ├─ README.md

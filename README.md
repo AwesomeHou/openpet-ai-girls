@@ -11,6 +11,7 @@ This repository is a ready-to-use pet asset pack featuring anthropomorphized ver
 - `Doubao`
 - `Gemini`
 - `ChatGPT`
+- `Claude`
 
 Each pet is packaged in a simple folder format that is easy to use in OpenPet projects and also fits Codex pet asset conventions.
 
@@ -27,6 +28,10 @@ OpenPet AI Girls is a small public asset pack for AI-themed companion pets. It i
 | Gemini | ChatGPT |
 | --- | --- |
 | ![Gemini preview](./gemini/spritesheet.webp) | ![ChatGPT preview](./chatgpt/spritesheet.webp) |
+
+| Claude |
+| --- |
+| ![Claude preview](./claude/spritesheet.webp) |
 
 ## Overview
 
@@ -45,6 +50,7 @@ This repository is intended for public showcase, reference, and pet experiment w
 | `doubao` | Doubao | Black-and-white lolita style, short dark bob |
 | `gemini` | Gemini | Rainbow-haired, bright and cheerful design |
 | `chatgpt` | ChatGPT | Mint-green palette, white-and-teal dress |
+| `claude` | Claude | Peach-orange hair, white frilled dress, orange ribbons |
 
 ## Repository Structure
 
@@ -60,6 +66,9 @@ openpet-ai-girls/
 │  ├─ pet.json
 │  └─ spritesheet.webp
 ├─ chatgpt/
+│  ├─ pet.json
+│  └─ spritesheet.webp
+├─ claude/
 │  ├─ pet.json
 │  └─ spritesheet.webp
 └─ README.md
