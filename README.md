@@ -1,3 +1,5 @@
+
+
 # OpenPet AI Girls
 
 [![English](https://img.shields.io/badge/docs-English-2563eb)](./README.md)
@@ -71,7 +73,8 @@ openpet-ai-girls/
 ├─ claude/
 │  ├─ pet.json
 │  └─ spritesheet.webp
-└─ README.md
+├─ README.md
+└─ README.zh-CN.md
 ```
 
 Each pet folder contains:
